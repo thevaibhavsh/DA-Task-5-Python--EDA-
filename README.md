@@ -80,3 +80,13 @@ https://colab.research.google.com/drive/1CvdvCrIfgye0-tRtzUDQT8sRs3-d_RYJ?usp=sh
 7. Embarked location shows some influence on survival, especially from port 'C'
 
 ---
+## 📂 Repository Contents
+
+| File Name                              | Description                          |
+|----------------------------------------|--------------------------------------|
+| `train.csv`                            | Original raw dataset                 |
+| `task 5 DA.py`                         | Python Code for (EDA)                |
+| `README.md`                            | Task documentation (this file)       |
+| `Titanic_EDA_Report`                   | Report of Findings                   |
+
+---
