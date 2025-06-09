@@ -35,6 +35,15 @@ This project presents an in-depth exploratory data analysis (EDA) of the Titanic
 
 ---
 
+---
+
+## 🛠 Code (Run without setup using Google Colab)
+
+🔗 Google Colab Link:
+https://colab.research.google.com/drive/1CvdvCrIfgye0-tRtzUDQT8sRs3-d_RYJ?usp=sharing
+
+---
+
 ## 📊 Key Plots & Observations
 
 ### 1. Survival Count
