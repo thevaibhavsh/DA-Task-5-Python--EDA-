@@ -1,6 +1,6 @@
 ## 📌 Internship Task - Data Analyst Role
 
-# Task 4:  Exploratory Data Analysis (EDA)
+# Task 5:  Exploratory Data Analysis (EDA)
 
 
 This project presents an in-depth exploratory data analysis (EDA) of the Titanic dataset using Python (Pandas, Seaborn, Matplotlib). It aims to uncover patterns, relationships, and insights that can aid in understanding survival trends.
